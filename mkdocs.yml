@@ -1,0 +1,10 @@
+site_name: Māia Documentation
+site_url: https://github.com/waikato/maia-doc
+site_description: Documentation for Māia.
+theme:
+    name: readthedocs
+markdown_extensions:
+    - toc:
+        baselevel: 3
+nav:
+  - 'Home': index.md
